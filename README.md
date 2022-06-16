@@ -290,8 +290,7 @@ height="5.034806430446194in"}
 
 -   System is developed in increments
 
--   Each increment is evaluated before the development of the next
-    > increment
+-   Each increment is evaluated before the development of the next increment
 
 -   Specification, development and validation may be interleaved
 
@@ -306,24 +305,19 @@ height="2.5240780839895014in"}
 
     -   Less documentation to change
 
-    -   Unstable requirements can be left for later stages of
-        > development
+    -   Unstable requirements can be left for later stages of development
 
 -   More frequent and early customer feedback reduces risk of failure
 
--   Customer value can be delivered with each increment, so system
-    > functionality is available earlier
+-   Customer value can be delivered with each increment, so system functionality is available earlier
 
--   Early increments act as a prototype to discover new requirements for
-    > later increments
+-   Early increments act as a prototype to discover new requirements for later increments
 
 #### Problems
 
 -   System structure degrades as new increments are added
 
-    -   Regular changes corrupts its structure and making further
-        > changes becomes difficult and costly, unless time and money is
-        > spent on refactoring
+    -   Regular changes corrupts its structure and making further changes becomes difficult and costly, unless time and money is spent on refactoring
 
 -   Level of reuse may be suboptimal
 
@@ -331,14 +325,11 @@ height="2.5240780839895014in"}
 
 -   Incremental delivery may not be possible for replacement systems
 
-    -   Increments have less functionality than the system being
-        > replaced
+    -   Increments have less functionality than the system being replaced
 
--   Not adequate for establishing a development contract at the
-    > beginning
+-   Not adequate for establishing a development contract at the beginning
 
-    -   Because of the nature of incremental development of the
-        > specification together with the software
+    -   Because of the nature of incremental development of the specification together with the software
 
 ### **Integration and configuration**
 
@@ -353,8 +344,7 @@ height="1.7306550743657043in"}
 
 #### Disadvantages
 
--   Requirements compromises are inevitable so system may not meet real
-    > needs of users
+-   Requirements compromises are inevitable so system may not meet real needs of users
 
 -   Loss of control over evolution of reused system elements
 
@@ -365,23 +355,17 @@ height="1.5511406386701663in"}
 
 ## **Key Points**
 
--   There are many different software processes but all involve the
-    > following technical activities: specification, design and
-    > implementation, validation and evolution
+-   There are many different software processes but all involve the following technical activities: specification, design and implementation, validation and evolution
 
--   Generic ways of organizing the basic process activities are
-    > described by software process models.
+-   Generic ways of organizing the basic process activities are described by software process models.
 
--   Examples include the 'waterfall' model, incremental development, and
-    > integration and configuration.
+-   Examples include the 'waterfall' model, incremental development, and integration and configuration.
 
--   Processes should be organized to better cope with change, by
-    > including prototyping activities, iterative development, etc.
+-   Processes should be organized to better cope with change, by including prototyping activities, iterative development, etc.
 
 # **2. Rational Unified Process (RUP)**
 
-[[Rational Unified Process
-(RUP)]{.ul}](https://moodle.up.pt/pluginfile.php/163331/course/section/42855/4.%20MIEIC-ESOF-2020-21-RUP.pdf)
+### **Key characteristics**
 
 # **3. Extreme Programming**
 
