@@ -18,17 +18,13 @@
 >
 > [Requirements engineering](#requirements-engineering) 
 >
-> [Software design and
-> implementation](#software-design-and-implementation) 
+> [Software design and implementation](#software-design-and-implementation) 
 >
-> [Software Verification &
-> Validation](#software-verification-validation) 
+> [Software Verification & Validation](#software-verification-validation) 
 >
-> [Testing phases in plan-driven software process
-> (V-model)](#testing-phases-in-plan-driven-software-process-v-model) 
+> [Testing phases in plan-driven software process (V-model)](#testing-phases-in-plan-driven-software-process-v-model) 
 >
-> [Software evolution (or
-> maintenance)](#software-evolution-or-maintenance) 
+> [Software evolution (or maintenance)](#software-evolution-or-maintenance) 
 >
 > [System evolution](#system-evolution) 
 >
@@ -40,8 +36,7 @@
 >
 > [Spiral](#spiral) 
 >
-> [Incremental development (&
-> delivery)](#incremental-development-delivery) 
+> [Incremental development (& delivery)](#incremental-development-delivery) 
 >
 > [Benefits](#benefits) 
 >
@@ -63,24 +58,19 @@
 
 **[4. Requirements Engineering](#requirements-engineering-1)**
 
-**[5. Use Case and Domain Modeling with
-UML](#use-case-and-domain-modeling-with-uml)**
+**[5. Use Case and Domain Modeling with UML](#use-case-and-domain-modeling-with-uml)**
 
-**[6. Software Architecture & Design](#software-architecture-design)
-11**
+**[6. Software Architecture & Design](#software-architecture-design)**
 
 **[7. Software Project Management](#software-project-management)**
 
-**[8. Software Verification and Validation
-(V&V)](#software-verification-and-validation-vv)**
+**[8. Software Verification and Validation (V&V)](#software-verification-and-validation-vv)**
 
-**[9. Software Construction and
-Evolution](#software-construction-and-evolution)**
+**[9. Software Construction and Evolution](#software-construction-and-evolution)**
 
 **[10. Using JSON Web APIs in Dart](#using-json-web-apis-in-dart)**
 
-**[11. Introduction to behavior modeling in
-UML](#introduction-to-behavior-modeling-in-uml)**
+**[11. Introduction to behavior modeling in UML](#introduction-to-behavior-modeling-in-uml)**
 
 **[12. Scrum](#scrum)**
 
