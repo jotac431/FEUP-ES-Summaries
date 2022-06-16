@@ -99,13 +99,11 @@
 
     -   **Specification** - defining what the system should do;
 
-    -   **Design and implementation** - defining the organization of the
-        > system and implementing the system;
+    -   **Design and implementation** - defining the organization of the system and implementing the system;
 
     -   **Validation** - checking that it does what the customer wants;
 
-    -   **Evolution** - changing the system in response to changing
-        > customer needs.
+    -   **Evolution** - changing the system in response to changing customer needs.
 
 ## **Software development life cycle**
 
@@ -139,21 +137,17 @@
 
 -   **Basis for improvement**
 
-    -   gathering data on your work helps determine which steps are the
-        > most time consuming, ineffective, or troublesome
+    -   gathering data on your work helps determine which steps are the most time consuming, ineffective, or troublesome
 
     -   this is useful to determine opportunities for improvement
 
 **Plan-driven and agile Processes**
 
--   **Plan-driven process -** all of the process activities are planned
-    > in advance and progress is measured against this plan.
+-   **Plan-driven process -** all of the process activities are planned in advance and progress is measured against this plan.
 
--   **Agile process -** planning is incremental and it is easier to
-    > change the process to reflect changing customer requirements
+-   **Agile process -** planning is incremental and it is easier to change the process to reflect changing customer requirements
 
--   Most practical processes include elements of both plan-driven and
-    > agile approaches
+-   Most practical processes include elements of both plan-driven and agile approaches
 
 -   There are no right or wrong software processes
 
@@ -173,8 +167,7 @@ height="2.755965660542432in"}
 
 -   Verification and validation (V & V) is intended to show that
 
-    -   the system [conforms to its specification]{.ul}
-        > **(verification)**
+    -   the system [conforms to its specification]{.ul} **(verification)**
 
     -   meets the [requirements and customer need]{.ul} **(validation)**
 
